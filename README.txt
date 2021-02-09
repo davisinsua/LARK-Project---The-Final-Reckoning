@@ -38,4 +38,8 @@ Enjoy and have fun learning the fundementals of Linux!
 SCREENSHOTS  |
 --------------
 
-![screen1](https://user-images.githubusercontent.com/64988214/107434750-2b40cc80-6af9-11eb-92b5-bb2a97503c86.PNG)
+![](screens/screen1.PNG)
+![](screens/screen2.PNG)
+![](screens/screen3.PNG)
+![](screens/screen4.PNG)
+![](screens/screen5.PNG)
