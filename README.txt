@@ -35,4 +35,7 @@ Enter it, and you are now playing!
 Enjoy and have fun learning the fundementals of Linux!
 
 
-Side Note: if you do not know what the right command to proceed is, do not give up! The game will help you!
+SCREENSHOTS  |
+--------------
+
+![screen1](https://user-images.githubusercontent.com/64988214/107434750-2b40cc80-6af9-11eb-92b5-bb2a97503c86.PNG)
