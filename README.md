@@ -1,9 +1,6 @@
 THE FINAL RECKONING
-Created by : Davis Insua
 ========================
-
-Welcome to the Final Reckoning!
-
+Created by : Davis Insua
 
 ABOUT THE GAME 
 ----------------
